@@ -33,6 +33,12 @@ for (int i = 0; i < integers.length; i++) {
 }
 return -1; // If the input is correct, we'll never reach this line
 */
+
+// Optimal would be to check the first 3 numbers ex. if those are only odd
+// check the array for the first even number and return it and vice verse
+// if the first 3 numbers have 2 odd 1 even return the even etc.
+
+// Not optimal solution
 public class Kata
 {
   public static int Find(int[] integers)
