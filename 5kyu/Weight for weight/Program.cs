@@ -30,8 +30,7 @@ public class WeightSort
 {
   
   public static string orderWeight(string strng) 
-  {
-	  
+  { 
 	/*
 	if (!long.TryParse(strng, out long num))
 		return strng;
@@ -77,6 +76,4 @@ public class WeightSort
     
     return res.TrimEnd();
   }
-}
-	}
 }
