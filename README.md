@@ -2,7 +2,7 @@
 
 <a href="https://www.codewars.com/users/WenzelDev/"><img src="https://www.codewars.com/users/WenzelDev/badges/small" alt="Codewars"></a>
 
-- done up to: Replace With Alphabet Position
+- done up to: Up to date!
 
 git init  
 git add .  
