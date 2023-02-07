@@ -75,7 +75,6 @@ public class Kata
 // Recursive DFS - Stack Overflow
 public class Kata
 {
-  
   public static void DFS(int[,] array, int y, int x, int newValue, int baseValue, bool[,] visited)
   {
     if (x < 0 || x > array.GetLength(0) - 1 || y < 0 || y > array.GetLength(1) - 1)
